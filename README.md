@@ -1,4 +1,3 @@
-![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
